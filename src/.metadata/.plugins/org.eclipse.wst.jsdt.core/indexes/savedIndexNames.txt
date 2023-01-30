@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/franco/Documentos/Programacion/JavaFullStack/Java-POO/ProyectoFinal/proyectoFinal/src/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+239081924.index
+467623344.index
+744461555.index
+3110084157.index
+2006940111.index
